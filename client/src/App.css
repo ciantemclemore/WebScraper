@@ -1,0 +1,21 @@
+.search-container{
+    display:flex;
+    gap: .5rem;
+    margin-bottom: 1rem;
+}
+
+.result-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.results{
+    display: flex;
+    flex-direction: column;
+}
+
+.result-area {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
